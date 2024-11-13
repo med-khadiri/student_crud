@@ -1,0 +1,28 @@
+#main_title
+{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: 500;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.box1 h2
+{
+    float: left;
+    margin-left: 90px;
+
+}
+.box1 button
+{
+    margin-right: 90px;
+    float: right;
+}
+.btn_ajouter
+{
+    float: right;
+    margin-right: 90px;
+}
+
